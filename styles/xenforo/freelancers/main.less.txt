@@ -1,0 +1,14 @@
+// styles/xenforo/freelancers/main.less
+
+@import "public.less";
+
+// Add your custom styles here
+// This file can be used to style the elements specific to your plugin.
+
+.freelancerProfile {
+    // Add styles for the freelancer profile page
+}
+
+.orderView {
+    // Add styles for the order details page
+}

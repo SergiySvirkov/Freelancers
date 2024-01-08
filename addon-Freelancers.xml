@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addon_id>
+    <addon_id>Freelancers</addon_id>
+    <title>Freelancers</title>
+    <version>1.0.0</version>
+    <description>A XenForo plugin for freelancers to share experiences and advice.</description>
+    <url>https://yourwebsite.com</url>
+    <install_callback>
+        <file>
+            <version_id>1000000</version_id>
+            <callback_class>Freelancers</callback_class>
+            <callback_method>install</callback_method>
+        </file>
+    </install_callback>
+    <uninstall_callback>
+        <file>
+            <version_id>1000000</version_id>
+            <callback_class>Freelancers</callback_class>
+            <callback_method>uninstall</callback_method>
+        </file>
+    </uninstall_callback>
+</addon_id>

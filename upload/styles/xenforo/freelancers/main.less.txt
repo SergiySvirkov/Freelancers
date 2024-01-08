@@ -1,0 +1,23 @@
+// upload/styles/xenforo/freelancers/main.less
+
+/**
+ * Freelancers - Main LESS stylesheet
+ */
+
+// Import XenForo's public.less to inherit base styles
+@import "../../../styles/public.less";
+
+// Define your custom styles for the plugin here
+// Example: Styling specific elements, layout adjustments, etc.
+
+.freelancersContainer {
+    // Add styles for the main container of your plugin
+}
+
+.freelancerProfile {
+    // Add styles for the freelancer profile page
+}
+
+.orderView {
+    // Add styles for the order details page
+}
